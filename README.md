@@ -20,6 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Python 3+
 - Opera GX
 - Opera Chromium Driver
+    > You can get it from [here](https://github.com/operasoftware/operachromiumdriver/releases). Download the driver that matches your browser version.
 
 ### Installing
 

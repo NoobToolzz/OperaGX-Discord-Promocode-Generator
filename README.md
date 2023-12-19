@@ -24,8 +24,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
 First, open your terminal and clone the repo then navigate to it.
 ```
 git clone https://github.com/NoobToolzz/OperaGX-Discord-Promocode-Generator.git
